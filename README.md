@@ -17,8 +17,9 @@ Contract Characteristics:
 
 ## Addresses
 - Tronscan Contract Address: [TPQB8bnyVWsmY3hYXwBha83mvMe5NdVdWQ](https://tronscan.org/#/token20/TPQB8bnyVWsmY3hYXwBha83mvMe5NdVdWQ)
-## Documentations
+## Tokenomics
 [Tokenomics](https://tokenomics.recast1.org)
+## Documentations
 [Documentations](https://docs.recast1.org/)
 
 
