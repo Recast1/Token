@@ -1,5 +1,5 @@
 
-# Recast1 (R1) Token TRC-20 Contact Code
+# Recast1 (R1) Token TRC-20 Contract Code
 
 
 
